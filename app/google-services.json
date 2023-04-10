@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389471421601",
+    "firebase_url": "https://bt-t10-default-rtdb.firebaseio.com",
+    "project_id": "bt-t10",
+    "storage_bucket": "bt-t10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389471421601:android:8634ba77e21838d6859ce0",
+        "android_client_info": {
+          "package_name": "com.ltdd.bt_t10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389471421601-c8cvqjifop1ive81prttfb7np4pnik03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiZ_reG1pmnD18dvhYqik6l7jxx0gM1jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389471421601-c8cvqjifop1ive81prttfb7np4pnik03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
